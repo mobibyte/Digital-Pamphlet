@@ -1,0 +1,27 @@
+.mainStyle {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+
+.mainContainer {
+    color: white;
+    text-align: center;
+}
+
+.spacingOut {
+    margin-top: 50px;
+}
+
+.eventAlignment {
+    display: flex;
+    justify-content: center;
+    row-gap: 50%;
+}
+
+.events {
+    text-align: center;
+    border-style: solid;
+    width: 200px;
+    height: 75px;
+    border-radius: 15px;
+}
